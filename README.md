@@ -1,104 +1,68 @@
 <div align="center">
+👋 Hi, I'm Saurabh Kumar
+Developer • Machine Learning Enthusiast • Data Analyst
+<p> <a href="https://github.com/saurabhkumar-techie"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=saurabhkumar-techie&style=for-the-badge&color=00F7FF" /> </p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+with+Python+%F0%9F%90%8D;Exploring+Machine+Learning+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%93%8A;Learning%2C+Building%2C+Improving+%F0%9F%9A%80" /> </div>
+👨‍💻 About Me
 
-# 👋 Hi, I'm Saurabh Kumar
+I'm a developer passionate about Machine Learning, Data Analytics, and AI.
+I enjoy turning ideas into practical projects while continuously improving my problem-solving and programming skills.
 
-### 🚀 Developer | Machine Learning Enthusiast | Data Analyst
+🔭 Exploring Machine Learning & Deep Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Machine+Learning+%7C+Python+%7C+Data+Analytics;Building+projects+and+learning+every+day+%F0%9F%9A%80" />
+🐍 Building projects with Python
 
-</div>
+📊 Working with Data Analytics & Data Science
 
----
+🤖 Learning PyTorch & AI
 
-## 🧑‍💻 About Me
+🧩 Practicing Data Structures & Algorithms
 
-- 🌱 Currently learning **Machine Learning & Deep Learning**
-- 🐍 Working with **Python**
-- 📊 Interested in **Data Analytics & Data Science**
-- 🧠 Exploring **PyTorch & AI**
-- 💻 Practicing **DSA**
-- 🚀 Building projects and improving my skills every day
+🚀 Building projects and learning something new every day
 
----
+🛠️ Tech Stack
+💻 Programming
+<p> <img src="https://skillicons.dev/icons?i=python,cpp,js,html" /> </p>
+🤖 Machine Learning & Data
+<p> <img src="https://skillicons.dev/icons?i=pytorch,mysql" /> </p> <p> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> </p>
+⚙️ Tools & Technologies
+<p> <img src="https://skillicons.dev/icons?i=git,github,fastapi,mysql" /> </p>
+🚀 What I'm Working On
+Machine Learning       ███████████████░░░   Learning & Building
+Deep Learning          ███████████░░░░░░░   Exploring
+Data Analytics         ████████████████░░   Practicing
+Python                 █████████████████░   Building
+DSA                    ████████████░░░░░░   Practicing
 
-## 🛠️ Tech Stack
+📌 Featured Projects
+Project	Description	Tech
+🤖 ML Project	Machine Learning project focused on solving a real-world problem	Python • ML
+📊 Data Analytics	Data analysis and visualization project	Python • Pandas • Matplotlib
+⚡ API Project	Fast and scalable backend/API application	Python • FastAPI
+🧠 Deep Learning	Exploring neural networks and deep learning concepts	Python • PyTorch
 
-### Languages
+💡 More projects coming soon. I'm constantly building and experimenting.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+📊 GitHub Analytics
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=saurabhkumar-techie&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar-techie&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar-techie&theme=tokyonight&hide_border=true" /> </div>
+🎯 Current Goals
 
-### Data & Machine Learning
+📚 Strengthen my Machine Learning fundamentals
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+🧠 Dive deeper into Deep Learning & PyTorch
 
-### Tools & Technologies
+📊 Build practical Data Science projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+🧩 Improve DSA & problem-solving
 
----
+🚀 Build and deploy useful AI-powered applications
 
-## 📊 GitHub Stats
+🌱 Contribute to open-source projects
 
+🌐 Let's Connect
+<div align="center"> <a href="https://github.com/saurabhkumar-techie"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 <div align="center">
+💡 Learn • Build • Experiment • Improve
 
-<img src="https://github-readme-stats.vercel.app/api?username=saurabhkumar-techie&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar-techie&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar-techie&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-> 📌 Add your best projects here as you build them.
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🔥 Project 1 | Your awesome project | Python |
-| 🤖 Project 2 | Machine Learning project | Python, ML |
-| 📊 Project 3 | Data Analytics project | Python, Pandas |
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/saurabhkumar-techie">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Add your LinkedIn -->
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<!-- Add your email -->
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Keep learning. Keep building. Keep improving."
-
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile! ⭐
 
 </div>
