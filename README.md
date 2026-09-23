@@ -1,39 +1,53 @@
+<!-- ======================= HEADER ======================= -->
+
 <div align="center">
 
-<img src="https://imgs.search.brave.com/xhuWofwPsVt0smfuNxUlECESOtArBllJnLZ6UNRDjE8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjE1/MjMzNTQyMC9waG90/by9pbmRpYW4tcHJp/bWUtbWluaXN0ZXIt/bmFyZW5kcmEtbW9k/aS13YXZlcy10by1z/dXBwb3J0ZXJzLW5l/eHQtdG8taW5kaWFz/LWhvbWUtbWluaXN0/ZXItYW1pdC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9LV9L/VVo0VWpvdjhSYzFJ/OHJCandjaE5ic2Fl/WEtvX25qQ2c0T1ll/YlpRbz0"
-     alt="Profile Banner"
-     width="100%" />
+# 👋 Hey, I'm Saurabh Kumar
 
-<br>
+### 🐍 Python Developer  •  💻 C++ & DSA  •  🤖 AI/ML Enthusiast  •  📊 Data Science
 
-# 👋 Hi, I'm **Saurabh Kumar**
+<p>
+  <em>Turning ideas into code, problems into solutions, and learning into real-world projects.</em>
+</p>
 
-### 💻 Developer • 🤖 Machine Learning Enthusiast • 📊 Data Analyst
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer+🐍;Machine+Learning+Explorer+🤖;Data+Analytics+Enthusiast+📊;AI+%26+Data+Science+Learner+🚀;Always+Learning+%26+Building+💡" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;C%2B%2B+%26+DSA+Enthusiast+%F0%9F%92%BB;Exploring+Machine+Learning+%F0%9F%A4%96;Data+Science+%26+Analytics+%F0%9F%93%8A;Building+Projects+That+Solve+Problems+%F0%9F%9A%80" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabhkumar-techie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-kumar-6ba9ba3ab/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/code_with_saurabh/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ======================= ABOUT ======================= -->
 
-I'm a developer and BCA student interested in **Python, Machine Learning, Data Analytics, and AI**.
+## 🧑‍💻 About Me
 
-I enjoy building practical projects, learning new technologies, and improving my problem-solving skills through coding.
+I'm a **BCA student and developer** passionate about building practical software,
+solving challenging problems, and exploring the world of **AI & Data**.
 
-- 🐍 Building projects with **Python**
+- 🐍 Building with **Python**
+- 💻 Practicing **DSA & problem solving with C++**
 - 🤖 Exploring **Machine Learning & AI**
 - 📊 Learning **Data Analytics & Data Science**
-- 🧠 Improving **DSA & Problem Solving**
-- 🌐 Learning **Web Development**
-- 🚀 Building and deploying practical projects
+- 🌐 Building projects with **Web Technologies**
+- 🚀 Interested in turning ideas into useful applications
+- 📚 Constantly learning, experimenting and improving
+
+> **Learn → Build → Break → Debug → Improve → Repeat 🔁**
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ======================= TECH STACK ======================= -->
 
-### 💻 Programming & Web
+## ⚡ Tech Stack
+
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
@@ -42,33 +56,32 @@ I enjoy building practical projects, learning new technologies, and improving my
 ### 🤖 AI / ML & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,mysql" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### ⚙️ Tools & Technologies
+### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,fastapi,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+<!-- ======================= CURRENT FOCUS ======================= -->
+
+## 🎯 What I'm Currently Working On
 
 ```text
-Python
-   ↓
-Data Analytics
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-AI-Powered Applications
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   🐍 Python                ████████████████░░  80%   │
+│   💻 DSA / C++             ██████████████░░░░  70%   │
+│   📊 Data Science          ████████████░░░░░░  60%   │
+│   🤖 Machine Learning      ██████████░░░░░░░░  50%   │
+│   🌐 Web Development       █████████░░░░░░░░░  45%   │
+│                                                      │
+└──────────────────────────────────────────────────────┘
